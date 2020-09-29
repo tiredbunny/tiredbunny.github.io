@@ -15,21 +15,24 @@
 </head>
   <body>
     <div class="wrapper">
-      <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-        
-        <!-- {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %} -->
+        <header>
+            <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+            <!-- {% if site.logo %}
+      <img src="{{site.logo | relative_url}}" alt="Logo" />
+    {% endif %} -->
+
+            <p>{{ site.description | default: site.github.project_tagline }}</p>
 
 
-        {% if site.github.is_user_page %}
-        <p class="view"><a href="{{ site.github.owner_url }}">  <i class="fa fa-github" style="font-size:48px"></i>  </a></p>
-        {% endif %}
+            {% if site.github.is_user_page %}
+            <p class="view"><a href="{{ site.github.owner_url }}">  <i class="fa fa-github" style="font-size:48px"></i>  </a></p>
+            <p class="view"><a href="https://www.youtube.com/channel/UCDRHKG2kOtisAMiV6df5ZBA">  <i class="fa fa-youtube-play" style="font-size:48px;color:red"></i>  </a></p>
 
-      </header>
+          
+            {% endif %}
+
+        </header>
       <section>
 
       {{ content }}
