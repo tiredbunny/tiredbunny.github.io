@@ -2,26 +2,21 @@
 ---
 
 
-### [Direct3D11 Graphics Demo](\pages\demo_page)
+### [Direct3D11 Graphics Demo](\pages\demo_page) (March 2020)
 
 ![Demo](\images\demo.png)
 
 ---
 
-### [Domino Castle - UE4 Game jam Game](\pages\dominocastle_page)
+### [Domino Castle - Game jam game](\pages\dominocastle_page) (August 2017)
 
 ![DominoCastle](\images\dominocastle.png)
 
 ---
 
-### [IceWeasel (codename) - Incomplete Shooter Game](\pages\iceweasel_page)
+### [Incomplete Shooter Game](\pages\iceweasel_page) (March 2017)
 
 ![IceWeasel](\images\iceweasel.png)
 
 ---
 
-### [Snake game](\pages\snake_page)
-
-![Snake](\images\snake.png)
-
----

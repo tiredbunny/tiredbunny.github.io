@@ -30,6 +30,6 @@
 
 Here is a YouTube video of a judge (of the game jam event) playing on the second level on hard mode. As the game was made in one week, it was buggy as expected, so even though the judge is playing on hard mode, the game still displays it as 'Easy' in some of the menus.
 
-<iframe width="600" height="400"
+<iframe width="450" height="315"
 src="https://www.youtube.com/embed/37ggLXhUfXc" allowfullscreen="true">
 </iframe>
