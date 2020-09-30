@@ -1,10 +1,10 @@
 # Domino Castle
 
 **Repository**:  
-<a href="https://github.com/rednewt/DominoCastle"><i class="fa fa-github" style="font-size:34px"></i></a>
+<a href="https://github.com/rednewt/DominoCastle"><i class="fa fa-github" style="font-size:24px"></i></a>
 
 **Final Build**:  
-<a href="https://drive.google.com/open?id=0ByRMOIz9rEO0MkU2cUtWSXlfd3M"><i class="fa fa-download" style="font-size:38px"></i></a>
+<a href="https://drive.google.com/open?id=0ByRMOIz9rEO0MkU2cUtWSXlfd3M"><i class="fa fa-download" style="font-size:24px"></i></a>
 
 **Description**: This game was our entry for the 'Week of Awesome' game jam event at [gamedev.net](https://www.gamedev.net/). The game is about falling as many towers as possible, which are made up of dominos (Toys, not pizza). You jump from one domino to other and try to  start a chain reaction to make towers fall down.
 
