@@ -6,6 +6,19 @@
 
 **Description**:
 
-I made this project for learning D3D11 and implementing some graphic techniques, using variety of resources such as Frank Luna's [Introduction to 3D Game Programming With DirectX 11](https://www.amazon.com/Introduction-3D-Game-Programming-DirectX11/dp/1936420228), 
-[Microsoft Docs](https://docs.microsoft.com/en-us/windows/win32/directx), [3DGep](https://www.3dgep.com/), .... and Google in general.
-No deprecated/legacy frameworks like Effects11 are used, I have kept the code up to date with current standards.
+I did this project to learn D3D11 more in-depth and implement various graphic techniques, using learning resources such as Frank Luna's [Introduction to 3D Game Programming With DirectX 11](https://www.amazon.com/Introduction-3D-Game-Programming-DirectX11/dp/1936420228), [Microsoft Docs](https://docs.microsoft.com/en-us/windows/win32/directx), [3DGep](https://www.3dgep.com/), etc. No deprecated/legacy frameworks like Effects11 are used.
+
+
+**Main Features**:
+* Flexible camera
+* Effects:
+    * Fog
+* Phong lighting model:
+  * Directional light
+  * Point light
+  * Spot light
+* Billboard trees using geometry shader
+* Simple compute shader
+* Stencil reflection
+* Planar shadows
+* ImGui integration for adjusting most of the values (light color, screen size, etc.)

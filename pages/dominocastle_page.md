@@ -6,7 +6,7 @@
 **Final Build**:  
 <a href="https://drive.google.com/open?id=0ByRMOIz9rEO0MkU2cUtWSXlfd3M"><i class="fa fa-download" style="font-size:24px"></i></a>
 
-**Description**: This game was our entry for the 'Week of Awesome' game jam event at [gamedev.net](https://www.gamedev.net/). The game is about falling as many towers as possible, which are made up of dominos (Toys, not pizza). You jump from one domino to other and try to  start a chain reaction to make towers fall down.
+**Description**: This game was our entry for the 'Week of Awesome' game jam event at [gamedev.net](https://www.gamedev.net/). The game is about falling as many towers as possible, which are made up of dominos. You jump from one domino to other and try to start a chain reaction to make towers fall.
 
 **Technologies used**: UE4 (Blueprints), Blender
 
@@ -18,13 +18,13 @@
 
 
 ---
-**Things I worked on**:
+**Things I worked on mainly**:
 
-* Overall Game Concept
-* Game Logic
-* All the Menus/UI 
+* Game concept
+* Game logic
+* All the menus/user interface 
 * HUD 
-* Training Level
+* Training level
 
 ---
 
