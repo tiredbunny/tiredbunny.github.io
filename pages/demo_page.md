@@ -22,3 +22,10 @@ I did this project to learn D3D11 more in-depth and implement various graphic te
 * Stencil reflection
 * Planar shadows
 * ImGui integration for adjusting most of the values (light color, screen size, etc.)
+
+**Screenshots**:
+
+![](../images/demo_1.png)
+![](../images/demo_2.png)
+![](../images/demo_3.png)
+![](../images/demo_4.png)
