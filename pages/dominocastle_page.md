@@ -14,6 +14,8 @@
 
 Myself (Programmer)
 
+PulchraSD (Artist)
+
 [Liam Carter](https://www.artstation.com/liamcarter) (Artist)
 
 [Hosein Ghahremanzadeh](https://github.com/IYP-Programer-Yeah) (Programmer)
