@@ -22,7 +22,7 @@
 
 
 
-### [Incomplete Shooter Game](\pages\iceweasel_page) (March 2017)
+### [Incomplete Shooter Game](\pages\iceweasel_page) (February 2017)
 
 ![IceWeasel](\images\iceweasel.png)
 
