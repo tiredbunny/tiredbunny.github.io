@@ -32,7 +32,8 @@ PulchraSD (Artist)
 
 ---
 
-Here is a YouTube video of a judge (of the game jam event) playing on the second level on hard mode. As the game was made in one week, it was buggy as expected, so even though the judge is playing on hard mode, the game still displays it as 'Easy' in some of the menus.
+
+Here is a YouTube video of a judge (of the game jam) playing the second level on hard mode. Due to a bug, the difficulty is displayed as “Easy” in some of the game menus. However, in reality, the judge is playing on hard difficulty.
 
 <iframe width="480px" height="270px"
 src="https://www.youtube.com/embed/37ggLXhUfXc" allowfullscreen="true">
