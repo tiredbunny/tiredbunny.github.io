@@ -1,7 +1,7 @@
 # Domino Castle
 
 **Repository**:  
-<a href="https://github.com/rednewt/DominoCastle"><i class="fa fa-github" style="font-size:24px"></i></a>
+<a href="https://github.com/tiredbunny/DominoCastle"><i class="fa fa-github" style="font-size:24px"></i></a>
 
 **Final build**:  
 <a href="https://drive.google.com/open?id=0ByRMOIz9rEO0MkU2cUtWSXlfd3M"><i class="fa fa-download" style="font-size:24px"></i></a>
@@ -22,7 +22,7 @@ PulchraSD (Artist)
 
 
 ---
-**Most important things I worked on**:
+**Main things I worked on**:
 
 * Game concept
 * Game/Character logic
