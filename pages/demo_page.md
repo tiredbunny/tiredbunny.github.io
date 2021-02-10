@@ -1,7 +1,7 @@
 # Direct3D11 Graphics Demo
 
 **Repository**:  
-<a href="https://github.com/rednewt/Demo"><i class="fa fa-github" style="font-size:24px"></i></a>
+<a href="https://github.com/tiredbunny/Demo"><i class="fa fa-github" style="font-size:24px"></i></a>
 
 
 **Description**:
@@ -23,6 +23,7 @@ I did this project to learn D3D11 more in-depth and implement various graphic te
 * Planar shadows
 * ImGui integration for adjusting most of the values (light color, screen size, etc.)
 
+---
 **Screenshots**:
 
 ![](../images/demo_1.png)

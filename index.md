@@ -10,11 +10,11 @@
 
 ### [Simple Raytracer](\pages\raytracer_page) (May 2020)
 
-![IceWeasel](\images\raytracer.png)
+![IceWeasel](\images\rt2.png)
 
 ---
 
-### [Domino Castle - Game jam game](\pages\dominocastle_page) (August 2017)
+### [Domino Castle](\pages\dominocastle_page) (August 2017)
 
 ![DominoCastle](\images\dominocastle.png)
 
