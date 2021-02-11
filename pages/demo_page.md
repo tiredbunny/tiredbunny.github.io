@@ -1,4 +1,4 @@
-# Direct3D11 Graphics Demo
+# Direct3D 11 Graphics Demo
 
 **Repository**:  
 <a href="https://github.com/tiredbunny/Demo"><i class="fa fa-github" style="font-size:24px"></i></a>
