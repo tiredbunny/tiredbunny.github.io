@@ -40,6 +40,8 @@ Here is a YouTube video of a judge (of the game jam) playing the second level on
 src="https://www.youtube.com/embed/37ggLXhUfXc" allowfullscreen="true">
 </iframe>
 
+---
+
 **Screenshots**:
 
 ![](../images/dc1.png)
