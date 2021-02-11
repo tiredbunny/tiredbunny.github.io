@@ -2,7 +2,7 @@
 ---
 
 
-### [Direct3D11 Graphics Demo](\pages\demo_page) (March 2020)
+### [Direct3D 11 Graphics Demo](\pages\demo_page) (March 2020)
 
 ![Demo](\images\demo.png)
 
