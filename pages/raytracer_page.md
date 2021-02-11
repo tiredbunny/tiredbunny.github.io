@@ -5,6 +5,7 @@
 
 
 **Description**:
+
 This project is my implementation of the “Ray Tracing in One Weekend” book. Currently supports simple diffuse material, metal reflection material with fuzziness variable, and anti-aliasing by averaging many samples inside each pixel.
 
 ---
