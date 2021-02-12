@@ -15,17 +15,14 @@ This game was our entry for a game jam event at [gamedev.net](https://www.gamede
 **Team members**: 
 
 Myself (Programmer)
-
+[Hosein Ghahremanzadeh](https://github.com/IYP-Programer-Yeah) (Programmer)
 PulchraSD (Artist)
-
 [Liam Carter](https://www.artstation.com/liamcarter) (Artist)
 
-[Hosein Ghahremanzadeh](https://github.com/IYP-Programer-Yeah) (Programmer)
 
 
 ---
 **Main things I worked on**:
-
 * Game concept
 * Game/Character logic
 * All the menus/user interface 
@@ -37,7 +34,7 @@ PulchraSD (Artist)
 
 Here is a YouTube video of a judge (of the game jam) playing the second level on hard mode. Due to a bug, the difficulty is displayed as “Easy” in some of the game menus. However, in reality, the judge is playing on hard difficulty.
 
-<iframe width="560px" height="320px"
+<iframe width="480px" height="270px"
 src="https://www.youtube.com/embed/37ggLXhUfXc" allowfullscreen="true">
 </iframe>
 
