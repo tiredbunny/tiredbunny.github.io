@@ -8,15 +8,20 @@
 
 **Description**: 
 
-This game was our entry for a game jam event at [gamedev.net](https://www.gamedev.net/). The game is about falling as many towers as possible, which are made up of dominos. You jump from one domino to other and try to start a chain reaction to make towers fall.
+This game was our entry for a game jam event at [gamedev.net](https://www.gamedev.net/). We had to make a game in one week based on any two out of the following four themes:  Chain Reaction, Assassination, Alien Invasion, and Castles. We choose “Chain Reaction” and “Castles.” 
+
+Our game’s goal is to destroy as many towers as possible, which are made up of dominos. You jump from one domino to another and start a chain reaction to make the towers fall.
 
 **Game engine**: UE4
 
 **Team members**: 
 
 Myself (Programmer)
+
 [Hosein Ghahremanzadeh](https://github.com/IYP-Programer-Yeah) (Programmer)
+
 PulchraSD (Artist)
+
 [Liam Carter](https://www.artstation.com/liamcarter) (Artist)
 
 
@@ -24,13 +29,13 @@ PulchraSD (Artist)
 ---
 **Main things I worked on**:
 * Game concept
-* Game/Character logic
+* Game logic
+* Character logic
 * All the menus/user interface 
 * HUD 
 * Training level
 
 ---
-
 
 Here is a YouTube video of a judge (of the game jam) playing the second level on hard mode. Due to a bug, the difficulty is displayed as “Easy” in some of the game menus. However, in reality, the judge is playing on hard difficulty.
 
