@@ -6,7 +6,7 @@
 
 **Description**: 
 
-I did this project to learn D3D11 more in-depth and implement various graphic techniques, using learning resources such as Frank Luna's [Introduction to 3D Game Programming With DirectX 11](https://www.amazon.com/Introduction-3D-Game-Programming-DirectX11/dp/1936420228), [Microsoft Docs](https://docs.microsoft.com/en-us/windows/win32/directx), [3DGep](https://www.3dgep.com/), etc. No deprecated/legacy frameworks like Effects11 are used.
+I did this project to learn D3D11 more in-depth and implement different graphics techniques, using learning resources such as Frank Luna's [Introduction to 3D Game Programming With DirectX 11](https://www.amazon.com/Introduction-3D-Game-Programming-DirectX11/dp/1936420228), [Microsoft Docs](https://docs.microsoft.com/en-us/windows/win32/directx), [3DGep](https://www.3dgep.com/), etc. No deprecated/legacy frameworks like Effects11 are used.
 
 
 **Main Features**:
@@ -27,6 +27,7 @@ I did this project to learn D3D11 more in-depth and implement various graphic te
 **Screenshots**:
 
 ![](../images/demo1.png)
+![](../images/demo8.png)
 ![](../images/demo2.png)
 ![](../images/demo4.png)
 ![](../images/demo5.png)
