@@ -26,7 +26,9 @@ I did this project to learn D3D11 more in-depth and implement various graphic te
 ---
 **Screenshots**:
 
-![](../images/demo_1.png)
-![](../images/demo_2.png)
-![](../images/demo_3.png)
-![](../images/demo_4.png)
+![](../images/demo1.png)
+![](../images/demo2.png)
+![](../images/demo4.png)
+![](../images/demo5.png)
+![](../images/demo6.png)
+![](../images/demo7.png)

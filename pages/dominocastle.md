@@ -3,14 +3,12 @@
 **Repository**:  
 <a href="https://github.com/tiredbunny/DominoCastle"><i class="fa fa-github" style="font-size:24px"></i></a>
 
-**Final build**:  
+**Final build** (Windows):  
 <a href="https://drive.google.com/open?id=0ByRMOIz9rEO0MkU2cUtWSXlfd3M"><i class="fa fa-download" style="font-size:24px"></i></a>
 
 **Description**: 
 
-This game was our entry for a game jam event at [gamedev.net](https://www.gamedev.net/). We had to make a game in one week based on any two out of the following four themes:  Chain Reaction, Assassination, Alien Invasion, and Castles. We choose “Chain Reaction” and “Castles.” 
-
-Our game’s goal is to destroy as many towers as possible, which are made up of dominos. You jump from one domino to another and start a chain reaction to make the towers fall.
+This game was our entry for a game jam event at [gamedev.net](https://www.gamedev.net/). The game’s goal is to destroy as many towers as possible, which are made up of dominos. You jump from one domino to another and start a chain reaction to make the towers fall.
 
 **Game engine**: UE4
 

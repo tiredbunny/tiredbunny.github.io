@@ -4,11 +4,11 @@
 
 ## [Direct3D 11 Graphics Demo](\pages\demo) (March 2020)
 
-![Demo](\images\demo.png)
+![Demo](\images\demo1.png)
 
 ---
 
-## [Simple Raytracer](\pages\raytracer) (May 2020)
+## [Simple Ray Tracer](\pages\raytracer) (May 2020)
 
 ![IceWeasel](\images\rt2.png)
 
