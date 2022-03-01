@@ -27,7 +27,7 @@ PulchraSD (Artist)
 ---
 **Main things I worked on**:
 * Game concept
-* Game logic
+* Game logic (animation blueprint and character blueprint)
 * Character controls
 * All the menus/user interface 
 * HUD 
